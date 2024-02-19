@@ -1,0 +1,25 @@
+.timerBtn{
+    width: 80px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 12px;
+    background-color: rgb(40, 38, 37);
+    color: white;
+    cursor: pointer;
+    font-family: '8BIT WONDER', sans-serif;
+    
+  }
+  #timeDisplay{
+    font-size: 75px;
+    color: blue;
+    font-family: '8BIT WONDER', sans-serif;
+  }
+  #timeContainer{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 25px;
+    background-color: black;
+    
+    
+   
+  }
